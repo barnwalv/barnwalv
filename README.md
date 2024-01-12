@@ -4,7 +4,7 @@
 
 🎯 By profession a 👨🏻‍💻 software engineer by interest an 🦾🦿mechanical engineer.
 
-🧔🏻‍♂️ I'm fond of working with C#, .NET, ASP.NET Core, MVC, Windows Services, APIs, Unit testing and my most favourite ⭐ Azure.
+🧔🏻‍♂️ I'm fond of working with C#, .NET, ASP.NET Core, MVC, Windows Services, APIs, Unit testing and my most favourite ⭐ Azure etc.
 
 💬 I love to chat/ discuss on .NET and Cloud ☁️
 
