@@ -6,7 +6,7 @@
 
 🧔🏻‍♂️ I'm fond of working with C#, .NET, ASP.NET Core, MVC, Windows Services, APIs, Unit testing and my most favourite ⭐ Azure etc.
 
-💬 I love to chat/ discuss on .NET and Cloud ☁️
+💬 I love to chat/ discuss on .NET and Cloud ☁️ AZ-900 ✅ AZ-104 ✅ Certified 
 
 📧 wanted to get in touch, most welcome! Email me at: vk.barnwal@outlook.com
 
