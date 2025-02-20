@@ -8,7 +8,7 @@
 
 💬 I love to chat/ discuss on .NET and Cloud ☁️ AZ-900 ✅ AZ-104 ✅ AZ-204 Certified.
 
-📧 wanted to get in touch, most welcome! Email me at: vk.barnwal@outlook.com
+📧 wanted to get in touch, most welcome! Email 📩 me at: vivekbarnwal85@gmail.com
 
 Apart from .NET/Github I 💗 🛣️ 🏎️ racing and doing off roading _4X4_ 🚙.
 
